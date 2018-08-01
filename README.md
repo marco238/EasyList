@@ -1,3 +1,3 @@
-# my_first_app
+# Easy List
 
 A new Flutter application.
