@@ -1,8 +1,3 @@
-# my_first_app
+# Easy List
 
 A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
