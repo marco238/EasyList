@@ -26,9 +26,14 @@ class _MyAppState extends State<MyApp> {
               Container(
                 margin: EdgeInsets.all(20.0),
                 child: RaisedButton(
-                  onPressed: () {},
+                  onPressed: () {
+                    setState(() {
+                      _products.add('New Product');
+                    });
+                  },
                   child: Text('Add Product'),
                   color: Colors.teal,
+                  textColor: Colors.white,
                 ),
               ),
               Column(
